@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![BQB Seguros Logo](https://via.placeholder.com/200x80/0066CC/FFFFFF?text=BQB+SEGUROS)
+![BQB Seguros Logo](https://github.com/BQBSA.png?size=200)
 
 **Transformando el sector asegurador a través de la tecnología**
 
@@ -125,7 +125,7 @@ La seguridad es fundamental en el sector asegurador. Implementamos:
 
 | Métrica | Valor |
 |---------|-------|
-| **Años de experiencia** | 25+ |
+| **Años de experiencia** | 10+ |
 | **Clientes activos** | 10,000+ |
 | **Pólizas gestionadas** | 50,000+ |
 | **Uptime sistemas** | 99.9% |
@@ -155,16 +155,20 @@ Exploramos partnerships estratégicos y colaboraciones tecnológicas que puedan 
 
 <div align="center">
 
-**🌐 Sitio Web:** [www.bqbseguros.com](https://www.bqbseguros.com)  
-**📧 Email Técnico:** desarrollo@bqbseguros.com  
-**💼 LinkedIn:** [BQB Seguros](https://linkedin.com/company/bqb-seguros)
+**🌐 Sitio Web:** [bqbsa.com](https://bqbsa.com)  
+**📧 Email Técnico:** it@bqbsa.com  
+**💼 LinkedIn:** [BQB Seguros](https://www.linkedin.com/company/bqb-seguros/)  
+**📸 Instagram:** [@bqb_asesoresdeseguros](https://www.instagram.com/bqb_asesoresdeseguros/)  
+**📘 Facebook:** [BQB Seguros](https://www.facebook.com/bqbseguros)
 
 ---
 
 ### **Síguenos para mantenerte actualizado sobre nuestras innovaciones**
 
 [![GitHub followers](https://img.shields.io/github/followers/BQBSA?style=social)](https://github.com/BQBSA)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Síguenos-blue?style=social&logo=linkedin)](https://linkedin.com/company/bqb-seguros)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Síguenos-blue?style=social&logo=linkedin)](https://www.linkedin.com/company/bqb-seguros/)
+[![Instagram](https://img.shields.io/badge/Instagram-Síguenos-E4405F?style=social&logo=instagram)](https://www.instagram.com/bqb_asesoresdeseguros/)
+[![Facebook](https://img.shields.io/badge/Facebook-Síguenos-1877F2?style=social&logo=facebook)](https://www.facebook.com/bqbseguros)
 
 </div>
 
